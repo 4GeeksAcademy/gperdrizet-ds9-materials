@@ -3,3 +3,4 @@
 I will post my solutions to the module project here after we have finished the assignment in class.
 
 1. **Module 1**: [Real Estate Data Clean-up](https://github.com/4GeeksAcademy/gperdrizet-realestate-datacleanup-exercise/blob/main/project.ipynb)
+2. **Module 2**: [Calculus and algebra problems with Python](https://github.com/4GeeksAcademy/gperdrizet-calculus-and-algebra-problems-with-python)
