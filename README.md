@@ -8,7 +8,7 @@ Three great sources of information about any package or library we use in Python
 
 ### SciPy
 
-Core scientific/technical computing utilities in Python. Was original written as a standardize set of numerical operation on top of the then new 'numeric array data structure' (which later became NumPy) in 2001.
+Core scientific/technical computing utilities in Python. Was originally written as a standardized set of numerical operation on top of the then new 'numeric array data structure' (which later became NumPy) in 2001.
 
 1. [SciPy GitHub Repo](https://github.com/scipy/scipy)
 2. [SciPy PyPI page](https://pypi.org/project/scipy/)
