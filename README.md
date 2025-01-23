@@ -2,6 +2,26 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-01-22
+
+Three great sources of information about any package or library we use in Python are: GitHub, PyPI, and the library documentation. Here are two example libraries we will use a lot:
+
+### SciPy
+
+Core scientific/technical computing utilities in Python. Was original written as a standardize set of numerical operation on top of the then new 'numeric array data structure' (which later became NumPy) in 2001.
+
+1. [SciPy GitHub Repo](https://github.com/scipy/scipy)
+2. [SciPy PyPI page](https://pypi.org/project/scipy/)
+3. [Official SciPy documentation](https://docs.scipy.org/doc/scipy-1.15.0/index.html)
+
+### SciKit-Learn
+
+'SciKit' originally meant 'SciPy ToolKit' i.e. an extension to the SciPy library focused on machine learning and data science. Was originally written around 2010 as part of Google Summer of Code.
+
+1. [SciKit-Learn GitHub Repo](https://github.com/scikit-learn/scikit-learn)
+2. [SciKit-Learn PyPI page](https://pypi.org/project/scikit-learn/)
+3. [Official SciKit-Learn documentation](https://scikit-learn.org/stable/)
+
 ## 2025-01-17
 
 1. [Oh my git!](https://ohmygit.org/). Open source, graphical git game with commit graph visualization. Much better than the Git Interactive Exercises provided on 4Geeks.
