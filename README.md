@@ -2,6 +2,13 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-01-29
+
+Here are the links to the SciPy implementations of the statistical tests for tonight's hypothesis testing exercises:
+
+1. [T-test](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
+2. [ANOVA (also called the F-test)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)
+
 ## 2025-01-22
 
 Three great sources of information about any package or library we use in Python are: GitHub, PyPI, and the library documentation. Here are two example libraries we will use a lot:
