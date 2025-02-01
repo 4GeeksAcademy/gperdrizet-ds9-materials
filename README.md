@@ -2,6 +2,14 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-01-31
+
+DS-7 final project repositories:
+
+1. [Natural Disasters](https://github.com/4GeeksAcademy/natural_disasters)
+2. [Fantasy Sports](https://github.com/4GeeksAcademy/fantasy_sports_assistant)
+3. [Breast Cancer Diagnosis](https://github.com/4GeeksAcademy/breast_cancer_diagnosis/tree/main)
+
 ## 2025-01-29
 
 Here are links to the SciPy implementations of the statistical tests for tonight's hypothesis testing exercises:
