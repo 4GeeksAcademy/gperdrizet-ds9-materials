@@ -12,7 +12,7 @@ DS-7 final project repositories:
 
 ## 2025-01-29
 
-Here are links to the SciPy implementations of the statistical tests for tonight's hypothesis testing exercises:
+SciPy's implementation of the statistical tests for tonight's hypothesis testing exercises:
 
 1. [T-test](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
 2. [ANOVA (also called the F-test)](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)
@@ -31,7 +31,7 @@ Core scientific/technical computing utilities in Python. Was originally written 
 
 ### SciKit-Learn
 
-'SciKit' originally meant 'SciPy ToolKit' i.e. an extension to the SciPy library focused on machine learning and data science. Was originally written around 2010 as part of Google Summer of Code.
+'SciKit' originally meant 'SciPy ToolKit' i.e. an extension to the SciPy library. Focused on machine learning and data science. Was originally written around 2010 as part of Google Summer of Code.
 
 1. [SciKit-Learn GitHub Repo](https://github.com/scikit-learn/scikit-learn)
 2. [SciKit-Learn PyPI page](https://pypi.org/project/scikit-learn/)
@@ -44,7 +44,7 @@ Core scientific/technical computing utilities in Python. Was originally written 
 
 ## 2025-01-15
 
-Here are some of the resources about optimizers and gradient decent we looked at in class
+Here are some of the resources about optimizers and gradient decent we looked at in class:
 
 1. [2024 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2024/popular-information/). Hinton's contribution was work on *backpropagation* - a gradient estimation method that allowed neural networks to be trained (both the 'popular' and 'advanced' information tabs on this page are highly worth a read).
 2. [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980). The scientific paper describing the popular and widely used ADAM optimizer. **Highly** technical/theoretical & extremely dense. Don't expect to fully understand this one - but it's interesting/fun to look at (Note the year and the first author's affiliation).
