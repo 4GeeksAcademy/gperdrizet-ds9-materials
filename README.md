@@ -2,6 +2,12 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-02-05
+
+Here is the link to the patched fork of the Connecting to a SQL Database Project Tutorial for tonight:
+
+1. [Connecting to a SQL Database Project Tutorial](https://github.com/4GeeksAcademy/gperdrizet-connecting-to-a-sql-database-project)
+
 ## 2025-01-31
 
 DS-7 final project repositories:
