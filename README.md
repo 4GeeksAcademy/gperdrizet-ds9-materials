@@ -8,6 +8,13 @@ Here is the link to the patched fork of the Connecting to a SQL Database Project
 
 1. [Connecting to a SQL Database Project Tutorial](https://github.com/4GeeksAcademy/gperdrizet-connecting-to-a-sql-database-project)
 
+The issue was an out-of-date SQLAlchemy version, due to a recent major release of the library. This caused sample code provided in the project repository to break. It would be possible to re-write the code to comply with the new version, but instead I pinned the older version of SQLAlchemy so the project would continue to function as written. This type of thing is common in data science DevOps and in software development in general. Here are some relevant links that explain the situation:
+
+1. [SQLAlchemy 2.0 - Major Migration Guide](https://docs.sqlalchemy.org/en/20/changelog/migration_20.html)
+2. [BUG: Pandas 2.2 breaks SQLAlchemy 1.4 compatibility](https://github.com/pandas-dev/pandas/issues/57049)
+3. [Semantic Versioning 2.0.0](https://semver.org/)
+4. [My pull request for the patch](https://github.com/4GeeksAcademy/connecting-to-a-sql-database-project-tutorial/pull/30)
+
 ## 2025-01-31
 
 DS-7 final project repositories:
