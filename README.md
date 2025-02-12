@@ -2,6 +2,10 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-02-12
+
+See the new resources directory for some directions on how to think about EDA effectively: [EDA guidelines]()
+
 ## 2025-02-05
 
 Here is the link to the patched fork of the Connecting to a SQL Database Project Tutorial for tonight:
