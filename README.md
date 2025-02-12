@@ -4,7 +4,7 @@ Extra course materials for data science cohort 9.
 
 ## 2025-02-12
 
-See the new resources directory for some directions on how to think about EDA effectively: [EDA guidelines]()
+See the new resources directory for some directions on how to think about EDA effectively: [EDA guidelines](https://github.com/4GeeksAcademy/gperdrizet-ds9-materials/blob/main/resources/EDA.md).
 
 ## 2025-02-05
 
