@@ -4,7 +4,7 @@ Extra course materials for data science cohort 9.
 
 ## 2025-02-14
 
-Added some extra information about useful statistical tests used during the Air BnB data preprocessing project. Look in the *resources* directory at [statistical_tests.md]()
+Added some extra information about useful statistical tests used during the Air BnB data preprocessing project. Look in the *resources* directory at [statistical_tests.md](https://github.com/4GeeksAcademy/gperdrizet-ds9-materials/blob/e06de1bc646b08287fed63a44c216210e00f74c3/resources/statistical_tests.md)
 
 ## 2025-02-12
 
