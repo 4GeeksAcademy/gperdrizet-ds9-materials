@@ -2,6 +2,10 @@
 
 Extra course materials for data science cohort 9.
 
+## 2025-02-14
+
+Added some extra information about useful statistical tests used during the Air BnB data preprocessing project. Look in the *resources* directory at [statistical_tests.md]()
+
 ## 2025-02-12
 
 See the new resources directory for some directions on how to think about EDA effectively: [EDA guidelines](https://github.com/4GeeksAcademy/gperdrizet-ds9-materials/blob/main/resources/EDA.md).
