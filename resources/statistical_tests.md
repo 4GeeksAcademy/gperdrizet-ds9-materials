@@ -1,6 +1,6 @@
 # Statistical tests
 
-The tests listed below cannot be used with nominal data as the independent variable. Choosing the correct statistical test and plotting data effectively depends on the data's statistical type. See the Wikipedia article [*Statistical data type*](https://en.wikipedia.org/wiki/Statistical_data_type) for more information.
+The tests listed below cannot be used with nominal data as the dependent variable. Choosing the correct statistical test and plotting data effectively depends on the data's statistical type. See the Wikipedia article [*Statistical data type*](https://en.wikipedia.org/wiki/Statistical_data_type) for more information.
 
 The tests below come in two flavors that differ in assumptions. Parametric tests (t-test, F-test) make assumptions about the population's distribution and parameters, non-parametric tests (Mann-Whitney, Kruskal–Wallis) do not. Parametric vs non-parametric is a useful distinction when thinking about statistical tests and models. See [*Parametric and Nonparametric: Demystifying the Terms*](https://github.com/4GeeksAcademy/gperdrizet-ds9-materials/blob/main/resources/articles/Hoskin_parametric_and%20_nonparametric.pdf).
 
