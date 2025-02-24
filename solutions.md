@@ -13,4 +13,5 @@ I will post my solutions to the module project here after we have finished the a
 - **Module 9**: [Command Line Challenge](https://github.com/4GeeksAcademy/gperdrizet-exercise-terminal-challenge)
 - **Module 10**: [Connecting to a SQL Database](https://github.com/4GeeksAcademy/gperdrizet-connecting-to-a-sql-database-project/blob/main/src/app.py)
 - **Module 11**: [Web Scraping](https://github.com/4GeeksAcademy/gperdrizet-web-scraping-project-tutorial/blob/main/src/app.py)
-- **Modele 12**: [Interacting with an API with Python][https://github.com/4GeeksAcademy/gperdrizet-interacting-with-api-python-project-tutorial/blob/main/src/app.py]
+- **Modele 12**: [Interacting with an API using Python](https://github.com/4GeeksAcademy/gperdrizet-interacting-with-api-python-project-tutorial/blob/main/src/app.py)
+- **Modele 13**: [Data Preprocessing Project Tutorial](https://github.com/gperdrizet/gperdrizet-data-preprocessing-project-tutorial/tree/main/solution)
